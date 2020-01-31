@@ -36,3 +36,4 @@ lcov.info
 
 build
 .cache
+.vscode/settings.json
